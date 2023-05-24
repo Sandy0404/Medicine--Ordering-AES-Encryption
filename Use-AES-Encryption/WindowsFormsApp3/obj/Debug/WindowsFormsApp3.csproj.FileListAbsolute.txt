@@ -1,0 +1,765 @@
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\iSpan\Desktop\sandy\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\sandy20230103\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\期中作業\WindowsFormsApp藥局\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\期中作業\WindowsFormsApp藥局1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局2 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局4\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\期中作業\WindowsFormsApp藥局7\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\期中作業\WindowsFormsApp藥局8\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\期中作業\WindowsFormsApp藥局9\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.login.resources
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\iSpan\Desktop\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局10\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局13\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局14\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局15\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat\WindowsFormsApp藥局16\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局17\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局18\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局19\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局22\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局24\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局25\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局26\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局27\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局28aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局29aes加密 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局30aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\作業teat期中專題\WindowsFormsApp藥局31aes加密\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局32aes加密資料庫mydb一切都可以商品管理小bug\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局34aes加密資料庫mydb一切都可以pm圖片新增不能存檔 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局36aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局37aes加密資料庫db1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局38aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\作業teat期中專題\WindowsFormsApp藥局39aes加密資料庫db1家裡版 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\bin\Debug\itextsharp.dll
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\bin\Debug\itextsharp.xml
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\sandy\Desktop\WindowsFormsApp藥局40aes加密資料庫db1家裡版 - 複製 - 複製\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\itextsharp.dll
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\bin\Debug\itextsharp.xml
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CustomerLogin.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormMe.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormOrderList.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductManagement.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Register.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StaffLogin.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginMain.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Sucess.resources
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\iSpan\Desktop\WindowsFormsApp藥局41aes加密資料庫db1家裡版\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
